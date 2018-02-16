@@ -1,0 +1,15 @@
+[package]
+name = "my_game"
+version = "0.1.0"
+authors = ["xahigoyez <pierre.bertin-johannet@orange.fr>"]
+
+[dependencies]
+mission3 = { path = "../mission3" }
+piston = "*"
+piston2d-graphics = "*"
+piston2d-opengl_graphics = "*"
+pistoncore-glutin_window = "*"
+time = "*"
+rand = "*"
+
+

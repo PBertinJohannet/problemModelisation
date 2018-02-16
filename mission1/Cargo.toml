@@ -1,0 +1,10 @@
+[package]
+authors = ["xahigoyez <pierre.bertin-johannet@orange.fr>"]
+name = "mission1"
+version = "0.1.0"
+[dependencies]
+rand = "*"
+time = "*"
+
+[dependencies.graphs]
+path = "../graphs"
